@@ -249,10 +249,6 @@ void updateStudent(int id) {
     printf("invalid ID!\n");
 }
 
-
-
-
-
 float calculateAverageGPA(void) {
     float totalgpa = 0.0; // To accumulate the total GPA
     int studentCount = 0; // To count the number of students
